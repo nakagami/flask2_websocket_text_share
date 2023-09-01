@@ -1,10 +1,11 @@
 flask2_websocket_text_share
 -------------------------------------------
 
-ここ
+ここで解説されている
 https://kivantium.hateblo.jp/entry/2021/10/18/110509
-の WebSocket のサンプルを動かしてみる。
+テキスト入力欄を共有する WebSocket のサンプル
 
+macOS の python3.9.6 で動作確認した。
 
 インストールと起動
 ::
