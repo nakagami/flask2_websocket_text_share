@@ -19,4 +19,4 @@ https://kivantium.hateblo.jp/entry/2021/10/18/110509
 下記の URL にブラウザの複数画面からアクセス
 ::
 
-   http://localost:8000
+   http://127.0.0.1:5000
