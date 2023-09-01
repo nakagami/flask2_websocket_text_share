@@ -17,7 +17,7 @@ macOS の python3.9.6 で動作確認した。
    pip install -r requirements.txt
    python server.py
 
-下記の URL にブラウザの複数画面からアクセス
+下記の URL に複数のブラウザからアクセスしてテキスト編集
 ::
 
    http://127.0.0.1:5000
